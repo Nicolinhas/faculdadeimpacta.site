@@ -1,4 +1,4 @@
-# faculdade.nick<\br>
-aula de DevOps EG2
-Nicolas lee
-RA:1900983
+# faculdade.nick</br>
+aula de DevOps EG2</br>
+Nicolas lee</br>
+RA:1900983</br>
